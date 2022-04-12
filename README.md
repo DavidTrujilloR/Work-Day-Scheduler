@@ -10,7 +10,10 @@ On the top of the page, current day and date is displayed.
 
 Each time block is color coded to indicate wheter it occuts in the past(gray), present(red), or future(green).
 
-## Screenshoots
+## Screenshoot
 
+![Screenshot of the final result of the page](./image/image.png)
 
 ## Page link
+
+[Page link](https://davidtrujillor.github.io/Work-Day-Scheduler/)
